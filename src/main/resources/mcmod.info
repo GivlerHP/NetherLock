@@ -1,0 +1,14 @@
+[
+{
+"modid": "netherlock",
+"name": "NetherLock",
+"description": "Disables vanilla Nether portal creation and adds a custom portal block for administrators.",
+"version": "${version}",
+"mcversion": "${mcversion}",
+"url": "https://ariamis.cc",
+"updateUrl": "https://ariamis.cc",
+"authorList": ["Givler"],
+"credits": "Created for the Ariamis project.",
+"logoFile": ""
+}
+]
